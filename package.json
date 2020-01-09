@@ -1,6 +1,6 @@
 {
   "name": "@emrys-myrddin/redux-little-router",
-  "version": "15.1.4",
+  "version": "15.1.5",
   "description": "A barebones routing solution for Redux applications.",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -53,7 +53,7 @@
   },
   "homepage": "https://github.com/FormidableLabs/redux-little-router#readme",
   "dependencies": {
-    "history": "^4.6.1",
+    "history": "4.7.x",
     "lodash.assign": "^4.2.0",
     "prop-types": "^15.5.8",
     "query-string": "^5.0.1",
